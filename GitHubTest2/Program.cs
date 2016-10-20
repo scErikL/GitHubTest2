@@ -20,6 +20,8 @@ namespace GitHubTest2
             //Och en tredje ändring typ.
 
             //Feature1.1 changes
+
+            //Ytterligare en feature1.1 ändring..
         }
     }
 }
