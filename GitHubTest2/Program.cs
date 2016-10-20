@@ -16,6 +16,8 @@ namespace GitHubTest2
             //En liten till ändring
 
             //En liten till ändring2... 
+
+            //Och en tredje ändring typ.
         }
     }
 }
